@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>Shaders/displayGrayVideo.frag</file>
+        <file>Shaders/displayGrayVideo.vert</file>
+    </qresource>
+</RCC>

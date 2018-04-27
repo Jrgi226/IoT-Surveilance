@@ -1,0 +1,8 @@
+# minute hour  dayofmonth month dayofweek   command
+    45     16      *         *      *     /home/iot-1/scripts/envir.sh  >>  /home/iot-1/scripts/projectlog.log 2>&1
+#   12     12      *         *      *     /home/iot-1/scripts/start.sh  >>  /home/iot-1/scripts/projectlog.log 2>&1
+    45     16      *         *      *     export DISPLAY=:1 && /home/iot-1/scripts/camera.sh >>  /home/iot-1/scripts/projectlog.log 2>&1
+#   37     13      *         *      *     /home/iot-1/scripts/upload.sh >>  /home/iot-1/scripts/projectlog.log 2>&1
+
+
+

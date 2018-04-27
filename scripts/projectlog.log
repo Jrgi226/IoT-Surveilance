@@ -1,0 +1,17 @@
+Hey I am running camera!!
+
+
+Hey I am showing the environment!!
+Current Date: Tue Apr 10 16:45:01 EDT 2018
+Current Date: Tue Apr 10 16:45:01 EDT 2018
+HOME=/root
+LOGNAME=root
+PATH=/usr/bin:/bin
+LANG=en_US.UTF-8
+SHELL=/bin/sh
+PWD=/root
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+QXcbConnection: Could not connect to display :1
+Aborted (core dumped)
+
